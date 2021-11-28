@@ -1,0 +1,4 @@
+#Sun Nov 28 01:42:21 EST 2021
+base.0=/Users/saidahmed/Documents/cs499/PaintVR/PaintVR/Library/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
